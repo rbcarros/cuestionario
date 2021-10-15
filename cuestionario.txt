@@ -1,7 +1,7 @@
-En tus palabras, ¿Qué es internet?
-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+En tus palabras, ¿Qué es internet? R: Es una base de datos
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. R: Pares de trenzado, Cable coaxial,Fifra optica y Radio enlaces de VHF y UHF
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS. R: Los DNS es el encargado de traducir los numeros de una direccion IP en un nombre de dominio. Es decir que convierte el dominio escrito en el navegador y dirigen el acceso hacia el servidor al que apunta el dominio
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. Tu cuando estas en la app de spotify te conectas a los servidores de spotify y cuando reproduces una cancion se reproduce en los servidores de spotify y de alli llega a tu telefono
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
