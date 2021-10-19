@@ -2,7 +2,9 @@ En tus palabras, ¿Qué es internet? R: Es una base de datos
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. R: Pares de trenzado, Cable coaxial,Fifra optica y Radio enlaces de VHF y UHF
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS. R: Los DNS es el encargado de traducir los numeros de una direccion IP en un nombre de dominio. Es decir que convierte el dominio escrito en el navegador y dirigen el acceso hacia el servidor al que apunta el dominio
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. Tu cuando estas en la app de spotify te conectas a los servidores de spotify y cuando reproduces una cancion se reproduce en los servidores de spotify y de alli llega a tu telefono
-Describe los protocolos que existen en internet, en específico HTTP y HTML
-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-¿Cómo funciona la búsqueda de google?
+Describe los protocolos que existen en internet, en específico HTTP y HTML R:HTTP es un protocolo de acceso para las páginas web a través de Internet. HTTP son las siglas para Hypertext Transfer Protocol que se traduce al español como el “protocolo de transferencia de hipertextos”.
+El HTTP es una de las 3 tecnologías básicas desarrolladas para la creación de la web en el año 1990 por Tim Berners Lee. La web como sistema de gestión de información para la transmisión de datos a través de Internet necesita para su funcionamiento de 3 elementos básicos: el HTTP, el URL y el HTML.
+
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. R: la encriptacion es un a metodo para hacer tus cosas o mensajes en privado y la llave publica sirve para cifrar 
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet. R: tener aplicaciones antibirus y tu tener llaves privadas para que solo tu puedes descifrar el codigo otra m anera es identificando a la gente lo paginas donde te metes
+¿Cómo funciona la búsqueda de google? R:El buscador utiliza una serie de algoritmos y programas para entender mejor lo que el usuario quiere buscar. Basándose en los resultados de estos algoritmos se extraen y “rankean” los resultados a mostrar.
